@@ -2,7 +2,7 @@
 type: docs
 title: "注解配置"
 linkTitle: "注解配置"
-weight: 4
+weight: 40
 description: "以注解配置的方式来配置你的 Dubbo 应用"
 ---
 
@@ -24,7 +24,7 @@ public class AnnotationServiceImpl implements AnnotationService {
     }
 }
 ```
-    
+
 ### 增加应用共享配置
 
 ```properties
@@ -63,7 +63,7 @@ public class AnnotationAction {
 }
 
 ```
-    
+
 ### 增加应用共享配置
 
 ```properties
