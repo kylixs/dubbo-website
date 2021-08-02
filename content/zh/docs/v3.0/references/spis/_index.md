@@ -1,8 +1,8 @@
 ---
 type: docs
 title: "SPI 扩展实现"
-linkTitle: "SPI 扩展实现"
-weight: 5
+linkTitle: "SPI 扩展"
+weight: 10
 description: "Dubbo 中已经实现的扩展"
 ---
 

@@ -1,8 +1,8 @@
 ---
 type: docs
 title: "API 参考手册"
-linkTitle: "API 参考手册"
-weight: 7
+linkTitle: "API 手册"
+weight: 12
 description: "Dubbo API 参考手册"
 ---
 

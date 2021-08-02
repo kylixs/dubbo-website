@@ -2,7 +2,7 @@
 type: docs
 title: "路由规则"
 linkTitle: "路由规则"
-weight: 40
+weight: 6
 description: "Dubbo支持的路由类型及配合方式"
 ---
 

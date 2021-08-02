@@ -2,7 +2,7 @@
 type: docs
 title: "Telnet 命令参考手册"
 linkTitle: "Telnet 手册"
-weight: 11
+weight: 31
 description: "通过 Telnet 命令进行服务治理"
 ---
 

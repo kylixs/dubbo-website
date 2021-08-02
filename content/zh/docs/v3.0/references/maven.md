@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Maven 插件参考手册"
-linkTitle: "Maven 插件参考手册"
-weight: 12
+title: "Maven 插件"
+linkTitle: "Maven 插件"
+weight: 50
 description: "Dubbo 的 Maven 插件"
 ---
 

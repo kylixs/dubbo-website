@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Schema 配置参考手册"
-linkTitle: "XML 配置"
-weight: 1
+title: "XML 配置参考手册"
+linkTitle: "XML手册"
+weight: 14
 description: "Dubbo 的 XML Schema 配置参考手册"
 ---
 

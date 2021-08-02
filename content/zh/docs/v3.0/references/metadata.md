@@ -1,8 +1,8 @@
 ---
 type: docs
 title: "元数据参考手册"
-linkTitle: "元数据参考手册"
-weight: 5
+linkTitle: "元数据"
+weight: 4
 description: "Dubbo 服务元数据参考手册"
 ---
 
@@ -476,7 +476,7 @@ Consumer: {service name}:{version}:{group}:consumer:{application name}
 ```text
 Provider: {service name}:::provider:{application name}
 Consumer: {service name}:::consumer:{application name}
-``` 
+```
 
 通过 Redis client get key 查看数据.
 
@@ -534,12 +534,12 @@ Curator api.
 ```java
 CuratorFramework client = ... 
 client.setData().withVersion(ticket).forPath(path, dataBytes);
-``` 
+```
 
 映射信息位于: 
 ```text
 /dubbo/mapping/{service name}
-``` 
+```
 
 通过 zkCli get 操作查看数据.
 

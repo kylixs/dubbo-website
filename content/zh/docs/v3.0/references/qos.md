@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "在线运维命令参考手册"
+title: "在线运维命令(QOS)参考手册"
 linkTitle: "QOS 手册"
-weight: 11
+weight: 30
 description: "新版本 telnet 命令使用说明"
 ---
 
