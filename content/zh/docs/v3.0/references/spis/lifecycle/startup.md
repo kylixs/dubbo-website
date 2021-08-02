@@ -2,7 +2,7 @@
 type: docs
 title: "Startup 启动探针"
 linkTitle: "启动探针"
-weight: 12
+weight: 24
 ---
 
 ## 扩展说明

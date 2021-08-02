@@ -2,7 +2,7 @@
 type: docs
 title: "Readiness 就绪探针"
 linkTitle: "就绪探针"
-weight: 12
+weight: 23
 ---
 
 ## 扩展说明
