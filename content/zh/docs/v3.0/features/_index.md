@@ -2,7 +2,7 @@
 type: docs
 title: "功能列表与用法示例"
 linkTitle: "功能列表"
-weight: 6
+weight: 60
 description: "通过示例学习 Dubbo 的用法"
 ---
 
